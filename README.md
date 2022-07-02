@@ -20,7 +20,7 @@ Our app will save you a lot of time and energy because you don’t have to log i
 
 ### Support
 
-Having trouble with Follow? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or drop us an [email](mailto:billowstudio@gmail.com) and we’ll help you sort it out.
+Having trouble with Follow? Check out our [documentation](./DOC.html) or drop us an [email](mailto:billowstudio@gmail.com) and we’ll help you sort it out.
 
 ### More
 
