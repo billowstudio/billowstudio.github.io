@@ -1,4 +1,9 @@
 ### 欢迎
+
+这篇文章已被翻译为其他语言。
+- [English](./README.html)
+- [正體中文](./README_zh-Hant.html)
+
 Follow 是一个非常强大的应用程序，它可以跟踪订阅频道的数量并实时通知您。Follow 最棒的一点是，您可以一次跟踪多个频道。 我们的应用程序将为您节省大量时间和精力，因为您无需在一天内多次登录帐户即可查看进度。Follow 也是免费的，所以立即下载我们的应用程序并尝试吧！
 
 <img alr="Empty View" src="/app-screenshots/zh-Hans/6.5-inch%20Empty.png" width="15%" height="15%">
