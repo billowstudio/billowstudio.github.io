@@ -18,12 +18,12 @@ Follow is a powerful app which tracks the number of followers to channels and in
 The best thing about Follow is that you can keep track of more than 1 channel at once.
 Our app will save you a lot of time and energy because you don’t have to log in to your account a couple of times in a day just to see your progress. Follow is also FREE, so download our app and try it now!  
 
-<img alr="Empty View" src="/app-screenshots/en/6.5-inch%20Empty.png" width="15%" height="15%">
-<img alr="Home View" src="/app-screenshots/en/6.5-inch%20EmptyHome.png" width="15%" height="15%">
-<img alr="Categories" src="/app-screenshots/en/6.5-inch%20EmptyCategories.png" width="15%" height="15%">
-<img alr="Multiple sites" src="/app-screenshots/en/6.5%20Emptyinch_Add.png" width="15%" height="15%">
-<img alr="Add channel" src="/app-screenshots/en/6.5-inch%20EmptySite.png" width="15%" height="15%">
-<img alr="Dark mode" src="/app-screenshots/en/6.5-inch%20EmptyDark.png" width="15%" height="15%">
+<img alr="Empty View" src="/assets/img/app-screenshots/en/6.5-inch%20Empty.png" width="15%" height="15%">
+<img alr="Home View" src="/assets/img/app-screenshots/en/6.5-inch%20EmptyHome.png" width="15%" height="15%">
+<img alr="Categories" src="/assets/img/app-screenshots/en/6.5-inch%20EmptyCategories.png" width="15%" height="15%">
+<img alr="Multiple sites" src="/assets/img/app-screenshots/en/6.5%20Emptyinch_Add.png" width="15%" height="15%">
+<img alr="Add channel" src="/assets/img/app-screenshots/en/6.5-inch%20EmptySite.png" width="15%" height="15%">
+<img alr="Dark mode" src="/assets/img/app-screenshots/en/6.5-inch%20EmptyDark.png" width="15%" height="15%">
 
 ### Features 
 
