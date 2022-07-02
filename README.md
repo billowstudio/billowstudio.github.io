@@ -4,6 +4,13 @@ Follow is a powerful app which tracks the number of followers to channels and in
 The best thing about Follow is that you can keep track of more than 1 channel at once.
 Our app will save you a lot of time and energy because you don’t have to log in to your account a couple of times in a day just to see your progress. Follow is also FREE, so download our app and try it now!  
 
+![Home](/app-screenshots/6.5-inch_Home.png)
+![Categories](/app-screenshots/6.5-inch_Categories.png)
+![Empty](/app-screenshots/6.5-inch_Empty.png)
+![Add](/app-screenshots/6.5-inch_Add.png)
+![Site](/app-screenshots/6.5-inch_Site.png)
+![Dark](/app-screenshots/6.5-inch_Dark.png)
+
 ### Features 
 - Support dozens of sites
 - Add your own channel and other people’s channels
