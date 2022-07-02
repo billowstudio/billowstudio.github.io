@@ -6,12 +6,12 @@
 
 Follow 是一個非常強大的應用程式，它可以跟蹤訂閱頻道的數量並實時通知您。Follow 最棒的一點是，您可以一次跟蹤多個頻道。 我們的應用程式將為您節省大量時間和精力，因為您無需在一天內多次登入帳戶即可檢視進度。Follow 也是免費的，所以立即下載我們的應用程式並嘗試吧！ 
 
-<img alr="Empty View" src="/assets/img/app-screenshots/en/6.5-inch%20Empty.png" width="15%" height="15%">
-<img alr="Home View" src="/assets/img/app-screenshots/en/6.5-inch%20EmptyHome.png" width="15%" height="15%">
-<img alr="Categories" src="/assets/img/app-screenshots/en/6.5-inch%20EmptyCategories.png" width="15%" height="15%">
-<img alr="Multiple sites" src="/assets/img/app-screenshots/en/6.5%20Emptyinch_Add.png" width="15%" height="15%">
-<img alr="Add channel" src="/assets/img/app-screenshots/en/6.5-inch%20EmptySite.png" width="15%" height="15%">
-<img alr="Dark mode" src="/assets/img/app-screenshots/en/6.5-inch%20EmptyDark.png" width="15%" height="15%">
+<img alr="Empty View" src="/assets/img/app-screenshots/zh-Hant/6.5-inch%20Empty.png" width="15%" height="15%">
+<img alr="Home View" src="/assets/img/app-screenshots/zh-Hant/6.5-inch%20Home.png" width="15%" height="15%">
+<img alr="Categories" src="/assets/img/app-screenshots/zh-Hant/6.5-inch%20Categories.png" width="15%" height="15%">
+<img alr="Multiple sites" src="/assets/img/app-screenshots/zh-Hant/6.5-inch%20Add.png" width="15%" height="15%">
+<img alr="Add channel" src="/assets/img/app-screenshots/zh-Hant/6.5-inch%20Site.png" width="15%" height="15%">
+<img alr="Dark mode" src="/assets/img/app-screenshots/zh-Hant/6.5-inch%20Dark.png" width="15%" height="15%">
 
 ### 特點
 
