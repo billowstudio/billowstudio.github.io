@@ -7,12 +7,12 @@
 
 Follow 是一个非常强大的应用程序，它可以跟踪订阅频道的数量并实时通知您。Follow 最棒的一点是，您可以一次跟踪多个频道。 我们的应用程序将为您节省大量时间和精力，因为您无需在一天内多次登录帐户即可查看进度。Follow 也是免费的，所以立即下载我们的应用程序并尝试吧！
 
-<img alr="Empty View" src="/assets/img/app-screenshots/en/6.5-inch%20Empty.png" width="15%" height="15%">
-<img alr="Home View" src="/assets/img/app-screenshots/en/6.5-inch%20EmptyHome.png" width="15%" height="15%">
-<img alr="Categories" src="/assets/img/app-screenshots/en/6.5-inch%20EmptyCategories.png" width="15%" height="15%">
-<img alr="Multiple sites" src="/assets/img/app-screenshots/en/6.5%20Emptyinch_Add.png" width="15%" height="15%">
-<img alr="Add channel" src="/assets/img/app-screenshots/en/6.5-inch%20EmptySite.png" width="15%" height="15%">
-<img alr="Dark mode" src="/assets/img/app-screenshots/en/6.5-inch%20EmptyDark.png" width="15%" height="15%">
+<img alr="Empty View" src="/assets/img/app-screenshots/zh-Hans/6.5-inch%20Empty.png" width="15%" height="15%">
+<img alr="Home View" src="/assets/img/app-screenshots/zh-Hans/6.5-inch%20Home.png" width="15%" height="15%">
+<img alr="Categories" src="/assets/img/app-screenshots/zh-Hans/6.5-inch%20Categories.png" width="15%" height="15%">
+<img alr="Multiple sites" src="/assets/img/app-screenshots/zh-Hans/6.5%20Add.png" width="15%" height="15%">
+<img alr="Add channel" src="/assets/img/app-screenshots/zh-Hans/6.5-inch%20Site.png" width="15%" height="15%">
+<img alr="Dark mode" src="/assets/img/app-screenshots/zh-Hans/6.5-inch%20Dark.png" width="15%" height="15%">
 
 ### 功能
 
