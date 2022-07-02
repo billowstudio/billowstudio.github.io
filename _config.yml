@@ -3,4 +3,4 @@ theme: jekyll-theme-minimal
 title: Follow
 logo: /assets/img/follow_logo.png
 description: Billow Studio Official Site
-google_analytics:
+google_analytics: true
