@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: Follow
-email: billowstudio@gmail.com
+logo: /assets/img/logo.png
+description: Billow Studio Official Site
+show_downloads: true
+google_analytics:
