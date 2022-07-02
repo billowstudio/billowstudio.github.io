@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 
 title: Follow
 logo: /assets/img/follow_logo.png
-description: Billow Studio Official Site
-show_downloads: true
+# description: Billow Studio Official Site
+# show_downloads: true
