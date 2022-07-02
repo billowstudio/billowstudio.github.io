@@ -1,7 +1,10 @@
-### Welcome
-Follow is a powerful app which tracks the number of followers to channels and informs you in real time.
-The best thing about Follow is that you can keep track of more than 1 channel at once.
-Our app will save you a lot of time and energy because you don’t have to log in to your account a couple of times in a day just to see your progress. Follow is also FREE, so download our app and try it now!  
+### 歡迎
+
+這篇文章已被翻譯成其他語言.
+- [English](./README_zh-Hans.html)
+- [简体中文](./README_zh-Hant.html)
+
+Follow 是一個非常強大的應用程式，它可以跟蹤訂閱頻道的數量並實時通知您。Follow 最棒的一點是，您可以一次跟蹤多個頻道。 我們的應用程式將為您節省大量時間和精力，因為您無需在一天內多次登入帳戶即可檢視進度。Follow 也是免費的，所以立即下載我們的應用程式並嘗試吧！
 
 <img alr="Empty View" src="/app-screenshots/zh-Hant/6.5-inch%20Empty.png" width="15%" height="15%">
 <img alr="Home View" src="/app-screenshots/zh-Hant/6.5-inch%20Home.png" width="15%" height="15%">
@@ -10,18 +13,18 @@ Our app will save you a lot of time and energy because you don’t have to log i
 <img alr="Add channel" src="/app-screenshots/zh-Hant/6.5-inch%20Site.png" width="15%" height="15%">
 <img alr="Dark mode" src="/app-screenshots/zh-Hant/6.5-inch%20Dark.png" width="15%" height="15%">
 
-### Features 
+### 特點
 
-- Support dozens of sites
-- Add your own channel and other people’s channels
-- Get real time updates about the number of followers for each channel
-- Minimalist design and user friendly interface
-- and many more!
+- 支援數十個站點
+- 新增您自己的頻道和其他人的頻道
+- 獲取有關每個頻道粉絲數量的實時更新
+- 極簡設計和使用者友好的介面
+- 還有很多！
 
-### Support
+### 支援
 
-Having trouble with Follow? Check out our [documentation](./DOC.html) or drop us an [email](mailto:billowstudio@gmail.com) and we’ll help you sort it out.
+使用 Follow 過程中遇到了問題？請閱讀[幫助文檔](./DOC_zh-Hant.html)或者跟我們發送[郵件](mailto:billowstudio@gmail.com)。我們會幫助你解決問題.
 
-### More
+### 更多
 
-Do you want more features? Let us know and we will work hard to bring new features that will be useful for you.
+您想要更多功能嗎？讓我們知道，我們將努力帶來對您有用的新功能。
