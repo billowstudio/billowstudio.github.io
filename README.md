@@ -4,14 +4,12 @@ Follow is a powerful app which tracks the number of followers to channels and in
 The best thing about Follow is that you can keep track of more than 1 channel at once.
 Our app will save you a lot of time and energy because you don’t have to log in to your account a couple of times in a day just to see your progress. Follow is also FREE, so download our app and try it now!  
 
-![Home](/app-screenshots/6.5-inch_Home.png|width=100)
-![Categories](/app-screenshots/6.5-inch_Categories.png|width=100)
-![Empty](/app-screenshots/6.5-inch_Empty.png|width=100)
-![Add](/app-screenshots/6.5-inch_Add.png|width=100)
-![Site](/app-screenshots/6.5-inch_Site.png|width=100)
-![Dark](/app-screenshots/6.5-inch_Dark.png|width=100)
-
-<img src="./app-screenshots/6.5-inch_Empty.png" width="15%" height="15%">
+<img alr="Empty View" src="/app-screenshots/6.5-inch_Home.png" width="15%" height="15%">
+<img alr="Categories" src="/app-screenshots/6.5-inch_Categories.png" width="15%" height="15%">
+<img alr="Home View" src="/app-screenshots/6.5-inch_Empty.png" width="15%" height="15%">
+<img alr="Multiple sites" src="/app-screenshots/6.5-inch_Add.png" width="15%" height="15%">
+<img alr="Add channel" src="/app-screenshots/6.5-inch_Site.png" width="15%" height="15%">
+<img alr="Dark mode" src="/app-screenshots/6.5-inch_Dark.png" width="15%" height="15%">
 
 ### Features 
 - Support dozens of sites
