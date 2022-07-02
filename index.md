@@ -19,7 +19,7 @@ The best thing about Follow is that you can keep track of more than 1 channel at
 Our app will save you a lot of time and energy because you don’t have to log in to your account a couple of times in a day just to see your progress. Follow is also FREE, so download our app and try it now!  
 
 <img alr="Empty View" src="/assets/img/app-screenshots/en/6.5-inch%20Empty.png" width="15%" height="15%">
-<img alr="Home View" src="/assets/img/app-screenshots/en/6.5-inch%20EmptyHome.png" width="15%" height="15%">
+<img alr="Home View" src="/assets/img/app-screenshots/en/6.5-inch%20Home.png" width="15%" height="15%">
 <img alr="Categories" src="/assets/img/app-screenshots/en/6.5-inch%20Categories.png" width="15%" height="15%">
 <img alr="Multiple sites" src="/assets/img/app-screenshots/en/6.5-inch%20Add.png" width="15%" height="15%">
 <img alr="Add channel" src="/assets/img/app-screenshots/en/6.5-inch%20Site.png" width="15%" height="15%">
@@ -35,7 +35,7 @@ Our app will save you a lot of time and energy because you don’t have to log i
 
 ### Support
 
-Having trouble with Follow? Check out our [documentation](./DOC.html) or drop us an [email](mailto:billowstudio@gmail.com) and we’ll help you sort it out.
+Having trouble with Follow? Check out our [documentation](/docs/help.html) or drop us an [email](mailto:billowstudio@gmail.com) and we’ll help you sort it out.
 
 ### More
 
