@@ -11,6 +11,8 @@ Our app will save you a lot of time and energy because you don’t have to log i
 ![Site](/app-screenshots/6.5-inch_Site.png|width=100)
 ![Dark](/app-screenshots/6.5-inch_Dark.png|width=100)
 
+<img src="./app-screenshots/6.5-inch_Empty.png" width="50%" height="50%">
+
 ### Features 
 - Support dozens of sites
 - Add your own channel and other people’s channels
