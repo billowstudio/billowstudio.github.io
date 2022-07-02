@@ -1,5 +1,9 @@
 ## Sites
 
+This documentation has been translated into other languages.
+- [简体中文](./DOC_zh-Hans.html)
+- [正體中文](./DOC_zh-Hant.html)
+
 ### Support
 - Acfun
 - Afdian
