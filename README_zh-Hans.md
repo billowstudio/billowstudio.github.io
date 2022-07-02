@@ -1,6 +1,6 @@
 ### 欢迎
 
-这篇文章已被翻译为其他语言。
+这篇文章已被翻译成其他语言。
 - [English](./README.html)
 - [正體中文](./README_zh-Hant.html)
 
