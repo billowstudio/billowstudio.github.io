@@ -20,10 +20,10 @@ Our app will save you a lot of time and energy because you don’t have to log i
 
 <img alr="Empty View" src="/assets/img/app-screenshots/en/6.5-inch%20Empty.png" width="15%" height="15%">
 <img alr="Home View" src="/assets/img/app-screenshots/en/6.5-inch%20EmptyHome.png" width="15%" height="15%">
-<img alr="Categories" src="/assets/img/app-screenshots/en/6.5-inch%20EmptyCategories.png" width="15%" height="15%">
-<img alr="Multiple sites" src="/assets/img/app-screenshots/en/6.5%20Emptyinch_Add.png" width="15%" height="15%">
-<img alr="Add channel" src="/assets/img/app-screenshots/en/6.5-inch%20EmptySite.png" width="15%" height="15%">
-<img alr="Dark mode" src="/assets/img/app-screenshots/en/6.5-inch%20EmptyDark.png" width="15%" height="15%">
+<img alr="Categories" src="/assets/img/app-screenshots/en/6.5-inch%20Categories.png" width="15%" height="15%">
+<img alr="Multiple sites" src="/assets/img/app-screenshots/en/6.5-inch%20Add.png" width="15%" height="15%">
+<img alr="Add channel" src="/assets/img/app-screenshots/en/6.5-inch%20Site.png" width="15%" height="15%">
+<img alr="Dark mode" src="/assets/img/app-screenshots/en/6.5-inch%20Dark.png" width="15%" height="15%">
 
 ### Features 
 
