@@ -5,6 +5,25 @@
 - [简体中文](/docs/help_zh-Hans.html)
 
 ### 支援的網站
+- Acfun
+- 愛發電
+- 嗶哩嗶哩
+- Gitee
+- 開源中國
+- Github
+- 簡書
+- 即刻
+- 掘金
+- 力扣
+- Medium
+- 麪包多
+- 網易雲音樂
+- 什麼值得買
+- Twitter
+- 知乎
+- 微博
+- 少數派
+
 #### Acfun [網址](https://www.acfun.cn)
 用户 ID 如 `526850`可以在用户主頁網址: https://www.acfun.cn/u/526850 中找到
 
