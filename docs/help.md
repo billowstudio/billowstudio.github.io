@@ -73,7 +73,7 @@ You can find uid in the user profile URL, such as the `elonmusk` part in your us
 You can find uid in the user profile URL, such as the `mileijun` part in your user profile URL: https://www.zhihu.com/people/mileijun
 
 #### [Weibo](https://weibo.com/)
-You can find uid in the user profile URL, such as the `1111681197` part in your user profile URL: (https://weibo.com/u/1111681197
+You can find uid in the user profile URL, such as the `1111681197` part in your user profile URL: https://weibo.com/u/1111681197
 
 #### [Sspai](https://sspai.com/)
 You can find uid in the user profile URL, such as the `michael` part in your user profile URL: https://sspai.com/u/michael/updates
