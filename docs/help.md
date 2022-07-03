@@ -34,7 +34,7 @@ You can find uid in the user profile URL, such as the **`spencerwoo`** part in y
 You can find uid in the user profile URL, such as the **`401742377`** part in your user profile URL: https://space.bilibili.com/401742377
 
 #### Gitee [Website](https://gitee.com/)
-You can find uid in the user profile URL, such as the linus part in your user profile URL: https://gitee.com/linus
+You can find uid in the user profile URL, such as the **`linus`** part in your user profile URL: https://gitee.com/linus
 
 #### OSCHINA [Website](https://oschina.net)
 You can find uid in the user profile URL, such as the **`javayou`** part in your user profile URL: https://my.oschina.net/javayou
