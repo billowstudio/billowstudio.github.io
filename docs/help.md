@@ -25,7 +25,7 @@ This documentation has been translated into other languages.
 - Sspai
 
 #### Acfun [Website](https://www.acfun.cn)
-You can find uid in the user profile URL, such as the `526850` part in your user profile URL: https://www.acfun.cn/u/526850
+You can find uid in the user profile URL, such as the **`526850`** part in your user profile URL: https://www.acfun.cn/u/526850
 
 #### Afdian [Website](https://afdian.net)
 You can find uid in the user profile URL, such as the `spencerwoo` part in your user profile URL: https://afdian.net/@spencerwoo
