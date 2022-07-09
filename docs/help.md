@@ -21,6 +21,7 @@ This documentation has been translated into other languages.
 - Medium
 - Mianbaoduo
 - Netmusic
+- Niconico
 - SMZDM
 - Twitter
 - Zhihu
@@ -74,6 +75,9 @@ You can find uid in the user profile URL, such as the **`amqVm2s`** part in your
 
 #### Netmusic [Website](https://music.163.com/)
 You can find uid in the user profile URL, such as the **`416608258`** part in your user profile URL: https://music.163.com/#/user/home?id=416608258
+
+#### Niconico [Website](https://www.nicovideo.jp/)
+You can find uid in the user profile URL, such as the **`4734835`** part in your user profile URL: https://www.nicovideo.jp/user/4734835
 
 #### SMZDM [Website](https://www.smzdm.com/)
 You can find uid in the user profile URL, such as the **`9339612697`** part in your user profile URL: https://zhiyou.smzdm.com/member/9339612697/
