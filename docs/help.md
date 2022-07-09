@@ -8,7 +8,10 @@ This documentation has been translated into other languages.
 - Acfun
 - Afdian
 - Bilibili
+- CSDN
+- Douban
 - Gitee
+- Haokan
 - OSCHINA
 - Github
 - Jianshu
@@ -33,8 +36,17 @@ You can find uid in the user profile URL, such as the **`spencerwoo`** part in y
 #### Billbill [Website](https://www.bilibili.com)
 You can find uid in the user profile URL, such as the **`401742377`** part in your user profile URL: https://space.bilibili.com/401742377
 
+#### CSDN [Website](https://csdn.net/)
+You can find uid in the user profile URL, such as the **`"coderising"`** part in your user profile URL: https://blog.csdn.net/coderising
+
+#### Douban [Website](https://douban.com/)
+You can find uid in the user profile URL, such as the **`ahbei`** part in your user profile URL: https://www.douban.com/people/ahbei/
+
 #### Gitee [Website](https://gitee.com/)
 You can find uid in the user profile URL, such as the **`linus`** part in your user profile URL: https://gitee.com/linus
+
+#### Haokan [Website](https://haokan.baidu.com/)
+You can find uid in the user profile URL, such as the **`1570168240515616`** part in your user profile URL: https://haokan.baidu.com/author/1570168240515616
 
 #### OSCHINA [Website](https://oschina.net)
 You can find uid in the user profile URL, such as the **`javayou`** part in your user profile URL: https://my.oschina.net/javayou
