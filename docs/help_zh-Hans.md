@@ -8,7 +8,10 @@
 - Acfun
 - 爱发电
 - 哔哩哔哩
+- CSDN
+- 豆瓣
 - Gitee
+- 好看视频
 - 开源中国
 - Github
 - 简书
@@ -18,6 +21,7 @@
 - Medium
 - 面包多
 - 网易云音乐
+- Niconico
 - 什么值得买
 - Twitter
 - 知乎
@@ -33,8 +37,17 @@
 #### 哔哩哔哩 [网址](https://www.bilibili.com)
 用户 ID 如 **`401742377`** 可以在用户主页网址: https://space.bilibili.com/401742377 中找到
 
-#### Gitee [网址](https://gitee.com/)
-用户 ID 如 **`linus`** 可以在用户主页网址: https://gitee.com/linus 中找到
+#### CSDN [Website](https://csdn.net/)
+用户 ID 如 **`"coderising"`** 可以在用户主页网址: https://blog.csdn.net/coderising 中找到
+
+#### 豆瓣 [Website](https://douban.com/)
+用户 ID 如  **`ahbei`** 可以在用户主页网址: https://www.douban.com/people/ahbei/ 中找到
+
+#### Gitee [Website](https://gitee.com/)
+用户 ID 如  **`linus`** 可以在用户主页网址: https://gitee.com/linus 中找到
+
+#### Haokan [Website](https://haokan.baidu.com/)
+用户 ID 如  **`1570168240515616`** 可以在用户主页网址: https://haokan.baidu.com/author/1570168240515616 中找到
 
 #### 开源中国 [网址](https://oschina.net)
 用户 ID 如 **`javayou`** 可以在用户主页网址: https://my.oschina.net/javayou 中找到
@@ -62,6 +75,9 @@
 
 #### 网易云音乐 [网址](https://music.163.com/)
 用户 ID 如 **`416608258`** 可以在用户主页网址: https://music.163.com/#/user/home?id=416608258 中找到
+
+#### Niconico [网址](https://www.nicovideo.jp/)
+用户 ID 如 **`4734835`** 可以在用户主页网址: https://www.nicovideo.jp/user/4734835 中找到
 
 #### 什么值得买 [网址](https://www.smzdm.com/)
 用户 ID 如 **`9339612697`** 可以在用户主页网址: https://zhiyou.smzdm.com/member/9339612697/ 中找到
